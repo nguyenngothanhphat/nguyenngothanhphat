@@ -6,7 +6,7 @@ I'm Nguyen Ngo Thanh Phat, a passionate developer who loves to code and build co
 <!-- ABOUT ME -->
 ## About Me
 
-- 🔭 I’m currently working on exciting backend projects at Vela Corp and Kicksplanet.
+- 🔭 I’m currently working on exciting backend projects at [Vela Corp](https://www.velacorp.com/) and [Kicksplanet](https://www.kicksplanet.vn).
 - 🌱 I’m constantly learning and improving my skills.
 - 👯 I’m always open to collaborate on interesting projects.
 - 💬 Ask me about backend development and technology.
