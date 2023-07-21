@@ -6,10 +6,10 @@ I'm Nguyen Ngo Thanh Phat, a passionate developer who loves to code and build co
 <!-- ABOUT ME -->
 ## About Me
 
-- 🔭 I’m currently working on some awesome projects.
-- 🌱 I’m constantly learning and growing.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about anything tech-related.
+- 🔭 I’m currently working on exciting backend projects at Vela Corp and Kicksplanet.
+- 🌱 I’m constantly learning and improving my skills.
+- 👯 I’m always open to collaborate on interesting projects.
+- 💬 Ask me about backend development and technology.
 
 <!-- TECH STACK -->
 ## Tech Stack
@@ -18,25 +18,24 @@ I'm Nguyen Ngo Thanh Phat, a passionate developer who loves to code and build co
 - Front-end: HTML, CSS, ReactJS
 - Back-end: NodeJS, ExpressJS, NestJS
 - Databases: MySQL
-- Tools: Git, VS Code
+- Tools: Git, VS Code, Postman
 
 <!-- GITHUB STATS -->
 ## GitHub Stats
 
-![nguyenngothanhphat GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![nguyenngothanhphat GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenngothanhphat&show_icons=true&theme=radical)
 
 <!-- TOP LANGUAGES -->
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenngothanhphat&layout=compact&theme=radical)
 
 <!-- SOCIAL MEDIA -->
 ## Connect with Me
 
 Let's connect and have a chat! You can find me on:
 
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/thanh-phat)
 - [Personal Website](https://www.your-website.com)
 
 <!-- FOOTER -->
