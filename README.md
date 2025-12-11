@@ -17,4 +17,4 @@ Hi, I'm Nguyen Ngo Thanh Phat — a software engineer who loves building clean, 
 Let's connect and have a chat! You can find me on:
 
 - [LinkedIn]([https://www.linkedin.com/in/thanh-phat](https://www.linkedin.com/in/thanhphat99))
-- [Personal Website]([https://www.your-website.com](https://nguyenngothanhphat.vercel.app/))
+- [Personal Website]([https://www.your-website.com](https://nguyenngothanhphat.vercel.app))
